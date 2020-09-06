@@ -7,7 +7,8 @@ Data modified
 
 --------------
 
-new branch 'feature'
+
+new branch 'feature'2
 
 --this changes are from 'master'.1
 
