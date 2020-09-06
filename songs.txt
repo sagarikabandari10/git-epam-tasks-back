@@ -7,5 +7,5 @@ Data modified
 
 --------------
 
-new branch 'feature'
+new branch 'feature'2
 --this is from 'feature'.
