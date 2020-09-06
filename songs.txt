@@ -5,9 +5,6 @@ standing alone
 Data modified
 
 
-standing alone
-Data modified
-new reports 
 --------------
 
 new branch 'feature'
