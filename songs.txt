@@ -13,4 +13,5 @@ new branch 'feature'2
 --this changes are from 'master'.1
 
 --this is from 'feature'.
+for tags only
 
